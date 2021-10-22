@@ -13,11 +13,11 @@ http://restreamus.ml:25461/restreamperu001/restreamperu021/71
 http://restreamus.ml:25461/restreamperu001/restreamperu021/76
 #EXTINF:0 type="stream" channelId="2501" logo="http://209.145.58.212:25461/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" aspect-ratio="16:9" size="Big", AMC
 http://restreamus.ml:25461/restreamperu001/restreamperu021/77
-#EXTINF:0 type="stream" channelId="-1" logo="https://seeklogo.com/images/S/star-atcion-logo-7391F231E8-seeklogo.com.png" aspect-ratio="16:9" size="Big", Star Action
+#EXTINF:0 type="stream" channelId="-1" logo="https://seeklogo.com/images/S/star-atcion-logo-7391F231E8-seeklogo.com.png" aspect-ratio="16:9", Star Action
 http://restreamus.ml:25461/restreamperu001/restreamperu021/83
 #EXTINF:0 type="stream" channelId="1052" logo="http://209.145.58.212:25461/images/48139b60c2ad49dbeadb3c45d0541451.png" aspect-ratio="16:9" size="Big", TNT
 http://restreamus.ml:25461/restreamperu001/restreamperu021/107
-#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/b63b47d70fe5372306238ee5a384bbbc.png" aspect-ratio="16:9" size="Big", Estudio Universal
+#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/b63b47d70fe5372306238ee5a384bbbc.png" aspect-ratio="16:9", Estudio Universal
 http://restreamus.ml:25461/restreamperu001/restreamperu021/103
 #EXTINF:0 type="stream" channelId="-1", adulto
 http://restreamus.ml:25461/restreamperu001/restreamperu021/60
