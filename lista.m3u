@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/48f33ceba64582f4cd17028fb8ee907c.png" aspect-ratio="16:9", H&H
 http://restreamus.ml:25461/restreamperu001/restreamperu021/65
-#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/280bbc2108bd8d18080d0e9936b058d6.png" aspect-ratio="16:9", Venevisión Plus
+#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/280bbc2108bd8d18080d0e9936b058d6.png", Venevisión Plus
 http://restreamus.ml:25461/restreamperu001/restreamperu021/844
-#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/cd5f4b6b4ed118131ea7f2ee71ac1716.png" aspect-ratio="16:9", Venevisión
+#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/cd5f4b6b4ed118131ea7f2ee71ac1716.png", Venevisión
 http://restreamus.ml:25461/restreamperu001/restreamperu021/843
 #EXTINF:0 type="stream" channelId="57" logo="http://209.145.58.212:25461/images/e7f4639abb913a3aa2f05712e25258eb.png" aspect-ratio="16:9" size="Big", Discovery
 http://restreamus.ml:25461/restreamperu001/restreamperu021/67
