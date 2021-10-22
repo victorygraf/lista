@@ -13,7 +13,7 @@ http://restreamus.ml:25461/restreamperu001/restreamperu021/71
 http://restreamus.ml:25461/restreamperu001/restreamperu021/76
 #EXTINF:0 type="stream" channelId="2501" logo="http://209.145.58.212:25461/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" aspect-ratio="16:9" size="Big", AMC
 http://restreamus.ml:25461/restreamperu001/restreamperu021/77
-#EXTINF:0 type="stream" channelId="-1", Star Action
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Star Action
 http://restreamus.ml:25461/restreamperu001/restreamperu021/83
 #EXTINF:0 type="stream" channelId="1052" logo="http://209.145.58.212:25461/images/48139b60c2ad49dbeadb3c45d0541451.png" aspect-ratio="16:9" size="Big", TNT
 http://restreamus.ml:25461/restreamperu001/restreamperu021/107
