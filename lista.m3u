@@ -1,13 +1,23 @@
 #EXTM3U
-#EXTINF:0,Venevision
-#EXTVLCOPT:network-caching=1000
-http://restreamus.ml:25461/restreamperu001/restreamperu021/843:25461
-#EXTINF:0,Discovery word
-#EXTVLCOPT:network-caching=1000
-http://restreamus.ml:25461/restreamperu001/restreamperu021/332
-#EXTINF:0,Discovery LA
-#EXTVLCOPT:network-caching=1000
-http://restreamus.ml:25461/restreamperu001/restreamperu021/326
-#EXTINF:0,H&H
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/48f33ceba64582f4cd17028fb8ee907c.png" aspect-ratio="16:9" size="Big", H&H
 http://restreamus.ml:25461/restreamperu001/restreamperu021/65
+#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/280bbc2108bd8d18080d0e9936b058d6.png", Venevisión Plus
+http://restreamus.ml:25461/restreamperu001/restreamperu021/844
+#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/cd5f4b6b4ed118131ea7f2ee71ac1716.png", Venevisión
+http://restreamus.ml:25461/restreamperu001/restreamperu021/843
+#EXTINF:0 type="stream" channelId="-1", adulto
+http://restreamus.ml:25461/restreamperu001/restreamperu021/60
+#EXTINF:0 type="stream" channelId="57" logo="http://209.145.58.212:25461/images/e7f4639abb913a3aa2f05712e25258eb.png", Discovery
+http://restreamus.ml:25461/restreamperu001/restreamperu021/67
+#EXTINF:0 type="stream" channelId="56", Natgeo
+http://restreamus.ml:25461/restreamperu001/restreamperu021/71
+#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/d0fbf0bd2e3348bd987741033aae80c1.png" aspect-ratio="16:9", E&A
+http://restreamus.ml:25461/restreamperu001/restreamperu021/76
+#EXTINF:0 type="stream" channelId="2501" logo="http://209.145.58.212:25461/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" aspect-ratio="16:9", AMC
+http://restreamus.ml:25461/restreamperu001/restreamperu021/77
+#EXTINF:0 type="stream" channelId="-1", Star Action
+http://restreamus.ml:25461/restreamperu001/restreamperu021/83
+#EXTINF:0 type="stream" channelId="1052" logo="http://209.145.58.212:25461/images/48139b60c2ad49dbeadb3c45d0541451.png", TNT
+http://restreamus.ml:25461/restreamperu001/restreamperu021/107
+#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/b63b47d70fe5372306238ee5a384bbbc.png" aspect-ratio="16:9", Estudio Universal
+http://restreamus.ml:25461/restreamperu001/restreamperu021/103
