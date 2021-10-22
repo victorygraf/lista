@@ -19,5 +19,13 @@ http://restreamus.ml:25461/restreamperu001/restreamperu021/83
 http://restreamus.ml:25461/restreamperu001/restreamperu021/107
 #EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/b63b47d70fe5372306238ee5a384bbbc.png" aspect-ratio="16:9", Estudio Universal
 http://restreamus.ml:25461/restreamperu001/restreamperu021/103
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) - SPACE
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) - NATGEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", adulto
 http://restreamus.ml:25461/restreamperu001/restreamperu021/60
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) - RecordTV Espirito Santo
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:0 type="stream" channelId="-1", adulto2
+http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
