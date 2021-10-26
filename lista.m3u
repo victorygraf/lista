@@ -135,10 +135,10 @@ http://restreamus.ml:25461/restreamperu001/restreamperu021/628
 http://restreamus.ml:25461/restreamperu001/restreamperu021/846
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Antena 3
 http://restreamus.ml:25461/restreamperu001/restreamperu021/1055
-#EXTINF:0 type="stream" channelId="-1", playboy
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", playboy
 http://restreamus.ml:25461/restreamperu001/restreamperu021/60
-#EXTINF:0 type="stream" channelId="-1", latinas
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", latinas
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="-1", rusas
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", rusas
 http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
 
