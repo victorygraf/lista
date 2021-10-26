@@ -23,3 +23,5 @@ http://restreamus.ml:25461/restreamperu001/restreamperu021/103
 http://restreamus.ml:25461/restreamperu001/restreamperu021/65
 #EXTINF:0 type="stream" channelId="-1", latinas
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", rusas
+http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
