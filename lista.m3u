@@ -22,11 +22,53 @@ http://restreamus.ml:25461/restreamperu001/restreamperu021/103
 #EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/48f33ceba64582f4cd17028fb8ee907c.png", H&H
 http://restreamus.ml:25461/restreamperu001/restreamperu021/65
 #EXTINF:0 type="stream" channelId="-1", TV Globo Br
-http://restreamus.ml:25461/restreamperu001/restreamperu021/1396
+http://restreamus.ml:25461/restreamperu001/restreamperu021/1197
 #EXTINF:0 type="stream" channelId="-1", TV Record Br
 http://restreamus.ml:25461/restreamperu001/restreamperu021/1317
 #EXTINF:0 type="stream" channelId="-1", Warner
 http://restreamus.ml:25461/restreamperu001/restreamperu021/110
+#EXTINF:0 type="stream" channelId="-1", Universal Channel
+http://restreamus.ml:25461/restreamperu001/restreamperu021/109
+#EXTINF:0 type="stream" channelId="-1", TNT series
+http://restreamus.ml:25461/restreamperu001/restreamperu021/108
+#EXTINF:0 type="stream" channelId="-1", TCM
+http://restreamus.ml:25461/restreamperu001/restreamperu021/106
+#EXTINF:0 type="stream" channelId="-1", Space
+http://restreamus.ml:25461/restreamperu001/restreamperu021/102
+#EXTINF:0 type="stream" channelId="-1", Sony
+http://restreamus.ml:25461/restreamperu001/restreamperu021/101
+#EXTINF:0 type="stream" channelId="-1", HBO SIGNATURE
+http://restreamus.ml:25461/restreamperu001/restreamperu021/98
+#EXTINF:0 type="stream" channelId="-1", HBO PLUS
+http://restreamus.ml:25461/restreamperu001/restreamperu021/97
+#EXTINF:0 type="stream" channelId="-1", Golden
+http://restreamus.ml:25461/restreamperu001/restreamperu021/91
+#EXTINF:0 type="stream" channelId="-1", ID
+http://restreamus.ml:25461/restreamperu001/restreamperu021/66
+#EXTINF:0 type="stream" channelId="-1", History
+http://restreamus.ml:25461/restreamperu001/restreamperu021/73
+#EXTINF:0 type="stream" channelId="-1", Animal Planet
+http://restreamus.ml:25461/restreamperu001/restreamperu021/72
+#EXTINF:0 type="stream" channelId="-1", El Gurmet
+http://restreamus.ml:25461/restreamperu001/restreamperu021/74
+#EXTINF:0 type="stream" channelId="-1", Pasiones
+http://restreamus.ml:25461/restreamperu001/restreamperu021/316
+#EXTINF:0 type="stream" channelId="-1", Telemundo
+http://restreamus.ml:25461/restreamperu001/restreamperu021/318
+#EXTINF:0 type="stream" channelId="-1", Turbo
+http://restreamus.ml:25461/restreamperu001/restreamperu021/337
+#EXTINF:0 type="stream" channelId="-1", Caracol
+http://restreamus.ml:25461/restreamperu001/restreamperu021/591
+#EXTINF:0 type="stream" channelId="-1", RCN
+http://restreamus.ml:25461/restreamperu001/restreamperu021/585
+#EXTINF:0 type="stream" channelId="-1", RCN novelas
+http://restreamus.ml:25461/restreamperu001/restreamperu021/586
+#EXTINF:0 type="stream" channelId="-1", Willax
+http://restreamus.ml:25461/restreamperu001/restreamperu021/628
+#EXTINF:0 type="stream" channelId="-1", TVO
+http://restreamus.ml:25461/restreamperu001/restreamperu021/846
+#EXTINF:0 type="stream" channelId="-1", Antena 3
+http://restreamus.ml:25461/restreamperu001/restreamperu021/1055
 #EXTINF:0 type="stream" channelId="-1", latinas
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1", rusas
