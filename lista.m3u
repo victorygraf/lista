@@ -21,7 +21,14 @@ http://restreamus.ml:25461/restreamperu001/restreamperu021/107
 http://restreamus.ml:25461/restreamperu001/restreamperu021/103
 #EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/48f33ceba64582f4cd17028fb8ee907c.png", H&H
 http://restreamus.ml:25461/restreamperu001/restreamperu021/65
+#EXTINF:0 type="stream" channelId="-1", TV Globo Br
+http://restreamus.ml:25461/restreamperu001/restreamperu021/1396
+#EXTINF:0 type="stream" channelId="-1", TV Record Br
+http://restreamus.ml:25461/restreamperu001/restreamperu021/1317
+#EXTINF:0 type="stream" channelId="-1", Warner
+http://restreamus.ml:25461/restreamperu001/restreamperu021/110
 #EXTINF:0 type="stream" channelId="-1", latinas
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1", rusas
 http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
+
