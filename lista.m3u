@@ -3,69 +3,69 @@
 http://restreamus.ml:25461/restreamperu001/restreamperu021/844
 #EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/cd5f4b6b4ed118131ea7f2ee71ac1716.png", Venevisión
 http://restreamus.ml:25461/restreamperu001/restreamperu021/843
-#EXTINF:0 type="stream" channelId="57" logo="http://209.145.58.212:25461/images/e7f4639abb913a3aa2f05712e25258eb.png", Discovery
+#EXTINF:0 type="stream" channelId="57" logo="http://209.145.58.212:25461/images/e7f4639abb913a3aa2f05712e25258eb.png" aspect-ratio="16:9" size="Big", Discovery
 http://restreamus.ml:25461/restreamperu001/restreamperu021/67
 #EXTINF:0 type="stream" channelId="56", Natgeo
 http://restreamus.ml:25461/restreamperu001/restreamperu021/71
-#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/d0fbf0bd2e3348bd987741033aae80c1.png" aspect-ratio="16:9", E&A
+#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/d0fbf0bd2e3348bd987741033aae80c1.png" aspect-ratio="16:9" aspect-ratio="16:9" size="Big", E&A
 http://restreamus.ml:25461/restreamperu001/restreamperu021/76
-#EXTINF:0 type="stream" channelId="2501" logo="http://209.145.58.212:25461/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" aspect-ratio="16:9", AMC
+#EXTINF:0 type="stream" channelId="2501" logo="http://209.145.58.212:25461/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" aspect-ratio="16:9" aspect-ratio="16:9" size="Big", AMC
 http://restreamus.ml:25461/restreamperu001/restreamperu021/77
 #EXTINF:0 type="stream" channelId="-1", Star Action
 http://restreamus.ml:25461/restreamperu001/restreamperu021/83
-#EXTINF:0 type="stream" channelId="1052" logo="http://209.145.58.212:25461/images/48139b60c2ad49dbeadb3c45d0541451.png", TNT
+#EXTINF:0 type="stream" channelId="1052" logo="http://209.145.58.212:25461/images/48139b60c2ad49dbeadb3c45d0541451.png" aspect-ratio="16:9" size="Big", TNT
 http://restreamus.ml:25461/restreamperu001/restreamperu021/107
-#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/b63b47d70fe5372306238ee5a384bbbc.png" aspect-ratio="16:9", Estudio Universal
+#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/b63b47d70fe5372306238ee5a384bbbc.png" aspect-ratio="16:9" aspect-ratio="16:9" size="Big", Estudio Universal
 http://restreamus.ml:25461/restreamperu001/restreamperu021/103
-#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/48f33ceba64582f4cd17028fb8ee907c.png", H&H
+#EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/48f33ceba64582f4cd17028fb8ee907c.png" aspect-ratio="16:9" size="Big", H&H
 http://restreamus.ml:25461/restreamperu001/restreamperu021/65
-#EXTINF:0 type="stream" channelId="-1", TV Globo Br
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Globo
 http://restreamus.ml:25461/restreamperu001/restreamperu021/1215
-#EXTINF:0 type="stream" channelId="-1", TV Record Br
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Record
 http://restreamus.ml:25461/restreamperu001/restreamperu021/1317
-#EXTINF:0 type="stream" channelId="-1", Warner
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Warner
 http://restreamus.ml:25461/restreamperu001/restreamperu021/110
-#EXTINF:0 type="stream" channelId="-1", Universal Channel
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Universal Channel
 http://restreamus.ml:25461/restreamperu001/restreamperu021/109
-#EXTINF:0 type="stream" channelId="-1", TNT series
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", TNT series
 http://restreamus.ml:25461/restreamperu001/restreamperu021/108
-#EXTINF:0 type="stream" channelId="-1", TCM
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", TCM
 http://restreamus.ml:25461/restreamperu001/restreamperu021/106
-#EXTINF:0 type="stream" channelId="-1", Space
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Space
 http://restreamus.ml:25461/restreamperu001/restreamperu021/102
-#EXTINF:0 type="stream" channelId="-1", Sony
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Sony
 http://restreamus.ml:25461/restreamperu001/restreamperu021/101
-#EXTINF:0 type="stream" channelId="-1", HBO SIGNATURE
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", HBO SIGNATURE
 http://restreamus.ml:25461/restreamperu001/restreamperu021/98
-#EXTINF:0 type="stream" channelId="-1", HBO PLUS
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", HBO PLUS
 http://restreamus.ml:25461/restreamperu001/restreamperu021/97
-#EXTINF:0 type="stream" channelId="-1", Golden
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Golden
 http://restreamus.ml:25461/restreamperu001/restreamperu021/91
-#EXTINF:0 type="stream" channelId="-1", ID
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", ID
 http://restreamus.ml:25461/restreamperu001/restreamperu021/66
-#EXTINF:0 type="stream" channelId="-1", History
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", History
 http://restreamus.ml:25461/restreamperu001/restreamperu021/73
-#EXTINF:0 type="stream" channelId="-1", Animal Planet
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Animal Planet
 http://restreamus.ml:25461/restreamperu001/restreamperu021/72
-#EXTINF:0 type="stream" channelId="-1", El Gurmet
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Gurmet
 http://restreamus.ml:25461/restreamperu001/restreamperu021/74
-#EXTINF:0 type="stream" channelId="-1", Pasiones
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Pasiones
 http://restreamus.ml:25461/restreamperu001/restreamperu021/316
-#EXTINF:0 type="stream" channelId="-1", Telemundo
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Telemundo
 http://restreamus.ml:25461/restreamperu001/restreamperu021/318
-#EXTINF:0 type="stream" channelId="-1", Turbo
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Discovery Turbo
 http://restreamus.ml:25461/restreamperu001/restreamperu021/337
-#EXTINF:0 type="stream" channelId="-1", Caracol
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Caracol
 http://restreamus.ml:25461/restreamperu001/restreamperu021/591
-#EXTINF:0 type="stream" channelId="-1", RCN
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", RCN
 http://restreamus.ml:25461/restreamperu001/restreamperu021/585
-#EXTINF:0 type="stream" channelId="-1", RCN novelas
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", RCN novelas
 http://restreamus.ml:25461/restreamperu001/restreamperu021/586
-#EXTINF:0 type="stream" channelId="-1", Willax
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Willax
 http://restreamus.ml:25461/restreamperu001/restreamperu021/628
-#EXTINF:0 type="stream" channelId="-1", TVO
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", TVO
 http://restreamus.ml:25461/restreamperu001/restreamperu021/846
-#EXTINF:0 type="stream" channelId="-1", Antena 3
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Big", Antena 3
 http://restreamus.ml:25461/restreamperu001/restreamperu021/1055
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/280bbc2108bd8d18080d0e9936b058d6.png", Venevisión Plus
