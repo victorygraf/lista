@@ -3,7 +3,7 @@
 http://restreamus.ml:25461/restreamperu001/restreamperu021/844
 #EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/cd5f4b6b4ed118131ea7f2ee71ac1716.png", Venevisión
 http://restreamus.ml:25461/restreamperu001/restreamperu021/843
-#EXTINF:0 type="stream" channelId="-1", adulto
+#EXTINF:0 type="stream" channelId="-1", playboy
 http://restreamus.ml:25461/restreamperu001/restreamperu021/60
 #EXTINF:0 type="stream" channelId="57" logo="http://209.145.58.212:25461/images/e7f4639abb913a3aa2f05712e25258eb.png", Discovery
 http://restreamus.ml:25461/restreamperu001/restreamperu021/67
@@ -21,3 +21,5 @@ http://restreamus.ml:25461/restreamperu001/restreamperu021/107
 http://restreamus.ml:25461/restreamperu001/restreamperu021/103
 #EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/48f33ceba64582f4cd17028fb8ee907c.png", H&H
 http://restreamus.ml:25461/restreamperu001/restreamperu021/65
+#EXTINF:0 type="stream" channelId="-1", latina
+http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
