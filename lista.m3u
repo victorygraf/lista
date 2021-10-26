@@ -67,6 +67,17 @@ http://restreamus.ml:25461/restreamperu001/restreamperu021/628
 http://restreamus.ml:25461/restreamperu001/restreamperu021/846
 #EXTINF:0 type="stream" channelId="-1", Antena 3
 http://restreamus.ml:25461/restreamperu001/restreamperu021/1055
+#EXTINF:0 type="stream" channelId="-1", Star series
+http://restreamus.ml:25461/restreamperu001/restreamperu021/168
+#EXTINF:0 type="stream" channelId="-1", Star Fun
+http://restreamus.ml:25461/restreamperu001/restreamperu021/87
+#EXTINF:0 type="stream" channelId="-1", Star Comedy
+http://restreamus.ml:25461/restreamperu001/restreamperu021/134
+#EXTINF:0 type="stream" channelId="-1", Star Cinema
+http://restreamus.ml:25461/restreamperu001/restreamperu021/164
+#EXTINF:0 type="stream" channelId="-1", Star
+http://51.222.47.134:8080/Aplay/09Play-2021@/169815
+
 #EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/280bbc2108bd8d18080d0e9936b058d6.png", Venevisión Plus
 http://restreamus.ml:25461/restreamperu001/restreamperu021/844
 #EXTINF:0 type="stream" channelId="-1" logo="http://209.145.58.212:25461/images/cd5f4b6b4ed118131ea7f2ee71ac1716.png", Venevisión
