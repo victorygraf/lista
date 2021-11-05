@@ -1,5 +1,2 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Venevisión" 
+#EXTINF:0 type="stream" channelId="-1", Venevisión
 http://distripremiumec.ml:80/Per9402/vRKSF33MnW/216
-#EXTINF:-1 tvg-id="" tvg-name="Star Action" 
-http://distripremiumec.ml:80/Per9402/vRKSF33MnW/25
