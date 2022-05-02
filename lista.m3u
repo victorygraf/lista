@@ -3,12 +3,21 @@
 #EXTVLCOPT:network-caching=1000
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320" group-title="Outdoor",AgrotendenciaTV (480p)
-https://inliveserver.com:1936/15506/15506/playlist.m3u8
-
 #EXTINF:0,Venevision
 #EXTVLCOPT:network-caching=1000
 http://distripremiumec.ml:80/Per9402/vRKSF33MnW/216
+
+#EXTINF:0,tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/42/b3/41/42b341df-7f8e-b698-c184-6f49327d2c51/source/256x256bb.jpg" UNIFE ARGENTINA
+#EXTVLCOPT:network-caching=1000
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8
+
+#EXTINF:-1 tvg-id="UNIFE PERU" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/42/b3/41/42b341df-7f8e-b698-c184-6f49327d2c51/source/256x256bb.jpg" group-title="PE",UNIFE PERU
+#EXTVLCOPT:network-caching=1000
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/chunklist_b4628000.m3u8
+
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" group-title="News",Exitosa TV (720p)
+https://cu.onliv3.com/livevd1/user2.m3u8
+
 #EXTINF:0,Discovery word
 #EXTVLCOPT:network-caching=1000
 http://restreamus.ml:25461/restreamperu001/restreamperu021/332
@@ -162,6 +171,4 @@ http://distripremiumec.ml:80/Per9402/vRKSF33MnW/086
 #EXTINF:0,DIRECTV SPORT
 #EXTVLCOPT:network-caching=1000
 http://distripremiumec.ml:80/Per9402/vRKSF33MnW/096
-#EXTINF:0,unife
-#EXTVLCOPT:network-caching=1000
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8
+
