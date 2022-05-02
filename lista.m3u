@@ -171,4 +171,9 @@ http://distripremiumec.ml:80/Per9402/vRKSF33MnW/096
 #EXTINF:4.000,PORLAMAR
 #EXTVLCOPT:network-caching=1000
 https://hd-auth.skylinewebcams.com/live.m3u8?a=1j7nis32ieqqcp447odf8d1ol6
-
+#EXTINF:0,RELAX 1
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/watch?v=XcVgkOYEwG8
+#EXTINF:0,RELAX PARIS JAZZ
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/watch?v=XnzxEGLaPxs
