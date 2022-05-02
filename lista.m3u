@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TELEVEN" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="VE",TELEVEN (480p)
+#EXTVLCOPT:network-caching=1000
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320" group-title="Outdoor",AgrotendenciaTV (480p)
+https://inliveserver.com:1936/15506/15506/playlist.m3u8
+
 #EXTINF:0,Venevision
 #EXTVLCOPT:network-caching=1000
 http://distripremiumec.ml:80/Per9402/vRKSF33MnW/216
