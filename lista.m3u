@@ -168,6 +168,7 @@ http://distripremiumec.ml:80/Per9402/vRKSF33MnW/086
 #EXTINF:0,DIRECTV SPORT
 #EXTVLCOPT:network-caching=1000
 http://distripremiumec.ml:80/Per9402/vRKSF33MnW/096
-
-
+#EXTINF:4.000,PORLAMAR
+#EXTVLCOPT:network-caching=1000
+https://hd-auth.skylinewebcams.com/live.m3u8?a=1j7nis32ieqqcp447odf8d1ol6
 
